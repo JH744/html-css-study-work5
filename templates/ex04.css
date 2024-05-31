@@ -1,0 +1,20 @@
+body {
+  margin: 0px;
+}
+.container {
+  height: 150px;
+  width: 150px;
+  background-color: black;
+  color: #fff;
+  position: relative;
+}
+
+.box {
+  height: 150px;
+  width: 150px;
+  background-color: #494949;
+  color: #ffff;
+  position: absolute;
+  left: 75px;
+  top: 75px;
+}

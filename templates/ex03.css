@@ -1,0 +1,21 @@
+body {
+  margin: 0px;
+}
+.container {
+  margin: 20px auto;
+  height: 300px;
+  width: 300px;
+  color: #fff;
+  background-color: #494949;
+  position: relative;
+}
+
+.box {
+  height: 150px;
+  width: 150px;
+  background-color: black;
+  color: #ffff;
+  position: absolute;
+  left: 75px;
+  top: 75px;
+}
